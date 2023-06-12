@@ -1,0 +1,136 @@
+.p{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 85px;
+    position: relative;
+    transform: rotate(0deg);  
+}
+.x{
+    width: 200px;
+    height: 200px;
+}
+.r1{
+    border-bottom-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+.r2{
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+.a{
+    top: 0px;
+    left: 0px;
+    background-color: red;
+    position: absolute;
+}
+.b{
+    left: 0px;
+    bottom: 0px;
+    background-color: aqua;
+    position: absolute;
+
+}
+.c{
+    top: 0px;
+    right: 0px;
+    background-color: rgb(227, 18, 18);
+    position: absolute;
+   
+}
+.d{
+    right: 0px;
+    bottom: 0px;
+    background-color: rgb(38, 216, 22); 
+    position: absolute;
+}
+.e1{
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    background-color: blue; 
+    transform-origin: right bottom;
+    transform: rotate(15deg); 
+}
+.e{
+    top: 0px;
+    left: 0px;
+    position: absolute; 
+    transform-origin: right bottom; 
+}
+.f{
+    background-color: rgb(255, 0, 187); 
+    transform: rotate(30deg); 
+}
+.g{
+    background-color: blueviolet;
+    transform: rotate(45deg);
+}
+.h{
+    background-color: rgb(142, 205, 16);
+    transform: rotate(60deg);
+}
+.i{
+    background-color: rgb(43, 168, 226);
+    transform: rotate(75deg);
+}
+.j{
+    background-color: rgb(43, 226, 205);
+    transform: rotate(105deg);
+}
+.k{
+    background-color: rgb(43, 226, 144);
+    transform: rotate(120deg);
+}
+.l {
+    background-color: rgb(226, 43, 119);
+    transform: rotate(135deg);
+}
+.m{
+    background-color: rgba(237, 11, 26, 0.977);
+    transform: rotate(150deg);
+}
+.n{
+    background-color: rgb(226, 43, 208);
+    transform: rotate(165deg);
+}
+.o{
+    background-color: rgb(226, 43, 110);
+    transform: rotate(195deg);
+}
+.q{
+    background-color: rgb(226, 43, 52);
+    transform: rotate(210deg);
+}
+.r{
+    background-color: rgb(63, 24, 202);
+    transform: rotate(225deg);
+}
+.u{
+    background-color: rgb(226, 107, 43);
+    transform: rotate(240deg);
+}
+.v{
+    background-color: rgb(43, 226, 80);
+    transform: rotate(255deg);
+}
+.w{
+    background-color: rgb(226, 223, 43);
+    transform: rotate(285deg);
+}
+.y{
+    background-color: rgb(43, 43, 226);
+    transform: rotate(300deg);
+}
+.z{
+    background-color: rgb(226, 43, 180);
+    transform: rotate(315deg); 
+}
+.z1{
+    background-color: rgb(46, 226, 43);
+    transform: rotate(330deg);
+}
+.z2{
+    background-color: rgb(43, 189, 226);
+    transform: rotate(345deg);
+}
